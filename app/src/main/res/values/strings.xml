@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spotify Kenya</string>
+    <string name="title_home">Home</string>
+    <string name="login">Login</string>
+    <string name="proceed">Proceed</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
